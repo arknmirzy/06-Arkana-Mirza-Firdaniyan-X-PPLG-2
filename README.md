@@ -107,11 +107,22 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="48" alt="Antigravity" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" height="48" alt="Codex" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="48" alt="Claude" /></a>
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="48" alt="Antigravity" /></a>
+      <br/><strong>ANTIGRAVITY</strong>
+    </td>
+    <td align="center">
+      <a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" height="48" alt="GPT" /></a>
+      <br/><strong>GPT</strong>
+    </td>
+    <td align="center">
+      <a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="48" alt="Claude" /></a>
+      <br/><strong>CLAUDE</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 ---
