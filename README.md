@@ -107,20 +107,11 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /></a>
-<div><span style="color:#ffffff;">ANTIGRAVITY</span></div>
-</div>
+<a href="https://antigravity.google/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /><br/><span style="color:#ffffff;">ANTIGRAVITY</span></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
-<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /></a>
-<div><span style="color:#ffffff;">CODEX</span></div>
-</div>
+<a href="https://openai.com/codex/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /><br/><span style="color:#ffffff;">CODEX</span></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /></a>
-<div><span style="color:#ffffff;">CLAUDE</span></div>
-</div>
+<a href="https://claude.ai/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /><br/><span style="color:#ffffff;">CLAUDE</span></a>
 
 </div>
 
