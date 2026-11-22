@@ -103,19 +103,31 @@ I like taking an idea from a rough concept to something people can actually use.
 
 </div>
 
-<details>
-<summary><b>✳ My AI toolbox</b> — expand</summary>
-<br/>
+### ✳ AI TOOLBOX
+
 <div align="center">
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="38" height="38" alt="Antigravity" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="38" height="38" alt="Codex" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="38" height="38" alt="Claude" />
-  <br/><br/>
-  <sub>ANTIGRAVITY&nbsp; / &nbsp;CODEX&nbsp; / &nbsp;CLAUDE</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="48" height="48" alt="Antigravity" />
+  <br/><b>ANTIGRAVITY</b>
+  <br/><sub>AI-powered IDE</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="48" height="48" alt="Codex" />
+  <br/><b>CODEX</b>
+  <br/><sub>AI coding agent</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="48" height="48" alt="Claude" />
+  <br/><b>CLAUDE</b>
+  <br/><sub>AI assistant</sub>
+</td>
+</tr>
+</table>
+
 </div>
-</details>
 
 ---
 
