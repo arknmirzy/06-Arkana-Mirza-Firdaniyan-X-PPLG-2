@@ -105,31 +105,15 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ### ✳ AI TOOLBOX
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://antigravity.google/">
-        <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="52" height="52" alt="Antigravity logo" />
-      </a>
-      <br/><b>ANTIGRAVITY</b>
-      <br/><sub>AI-powered IDE</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://openai.com/codex/">
-        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="52" height="52" alt="Codex logo" />
-      </a>
-      <br/><b>CODEX</b>
-      <br/><sub>Coding agent</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://claude.ai/">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="52" height="52" alt="Claude logo" />
-      </a>
-      <br/><b>CLAUDE</b>
-      <br/><sub>AI assistant</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="48" alt="Antigravity" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" height="48" alt="Codex" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="48" alt="Claude" /></a>
+
+</div>
 ---
 
 ## <a id="projects"></a>03 / SELECTED PROJECTS
