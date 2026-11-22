@@ -1,161 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=header&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101820,45:172b26,100:0b0f0e&text=ARKANA%20MIRZA&fontColor=e8f5e9&fontSize=54&fontAlignY=42&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20CURIOUS%20MIND&descSize=13&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=just+a+vibe+coder;building+things+that+matter;powered+by+ai+and+curiosity;vibe+always." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9BE7B1&center=true&vCenter=true&width=620&lines=Turning+ideas+into+interfaces.;Learning+by+building%2C+one+commit+at+a+time.;Code%2C+design%2C+and+a+little+curiosity." alt="Typing intro" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white" />
+<a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-9BE7B1?style=for-the-badge&labelColor=101820" /></a>
+&nbsp;
+<a href="https://github.com/arknmirzy"><img src="https://img.shields.io/badge/OPEN-SOURCE-9BE7B1?style=for-the-badge&labelColor=101820" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=profile+views&color=000000&style=flat-square" alt="views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/arknmirzy?label=followers&style=flat-square&color=000000&labelColor=1a1a1a" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=arknmirzy&style=flat&color=172b26&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/arknmirzy?style=flat&color=172b26&labelColor=101820&label=FOLLOWERS" />
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### / 01 — A LITTLE ABOUT ME
+
+Hey, I'm **Arkana** — a student and developer who enjoys turning ideas into useful digital experiences.
+
+I explore web development, interface design, Linux, and AI-assisted workflows. I learn best by experimenting, building projects, and improving them along the way.
+
+- **Currently exploring:** Web development & UI
+- **Based around:** HTML, CSS, JavaScript and PHP
+- **Daily tools:** VS Code, Git, Figma
+- **Environment:** Arch Linux & Windows
+- **Mindset:** Stay curious. Keep building.
+
+</td>
+<td width="42%" valign="top">
+
+### / 02 — QUICK PROFILE
+
 ```js
 const arkana = {
-    name   : "Arkana Mirza",
-    title  : "just a vibe coder",
-    school : "SMK-LETRIS2",
-    os     : ["Arch Linux", "Windows"],
-    editor : "Visual Studio Code",
-    term   : "Kitty",
-    stack  : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
-    tools  : ["Tailwind", "Bootstrap", "MySQL", "Git"],
-    ai     : ["Antigravity", "Codex", "Claude"],
-    motto  : "be nice"
+  role: "developer in progress",
+  focus: ["web", "ui", "creative tech"],
+  languages: [
+    "JavaScript",
+    "PHP",
+    "Python",
+    "C++"
+  ],
+  motto: "be nice"
 };
 ```
 
----
-
-<h2 align="center">stack</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br/><sub>HTML</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br/><sub>CSS</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/><sub>JavaScript</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br/><sub>React</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br/><sub>Node.js</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" /><br/><sub>PHP</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" /><br/><sub>Python</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/><sub>C++</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" /><br/><sub>Tailwind</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40" /><br/><sub>Bootstrap</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" /><br/><sub>MySQL</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/><sub>Git</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/><sub>GitHub</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40" /><br/><sub>Laravel</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" /><br/><sub>Figma</sub></td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
-
-<h2 align="center">ai tools</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="40" height="40" /><br/><sub><b>Codex</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="40" height="40" /><br/><sub><b>Claude</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">workspace</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="40" /><br/><sub>Arch Linux</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="40" /><br/><sub>Windows</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/><sub>VS Code</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="40" /><br/><sub>Kitty</sub></td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">stats</h2>
+## / 03 — TECH STACK
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,cpp,mysql,tailwind,bootstrap,git,github,figma&theme=dark&perline=7" />
 </p>
+
+## / 04 — MY WORKSPACE
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
+  <img src="https://skillicons.dev/icons?i=arch,windows,vscode,bash,figma&theme=dark" />
 </p>
+<p align="center"><sub>Arch Linux · Windows · VS Code · Kitty · Figma</sub></p>
+
+## / 05 — AI TOOLBOX
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="38" height="38" alt="Antigravity" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="38" height="38" alt="Codex" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="38" height="38" alt="Claude" />
+  <br/>
+  <sub>ANTIGRAVITY&nbsp;&nbsp; / &nbsp;&nbsp;CODEX&nbsp;&nbsp; / &nbsp;&nbsp;CLAUDE</sub>
 </p>
 
----
-
-<h2 align="center">projects</h2>
+## / 06 — SELECTED PROJECTS
 
 <p align="center">
   <a href="https://github.com/arknmirzy/dompetku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=transparent&hide_border=true&title_color=9BE7B1&text_color=c9d1d9&icon_color=9BE7B1" />
   </a>
-  &nbsp;
   <a href="https://github.com/arknmirzy/aura-music">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&theme=transparent&hide_border=true&title_color=9BE7B1&text_color=c9d1d9&icon_color=9BE7B1" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/arknmirzy/apel-putih">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&theme=transparent&hide_border=true&title_color=9BE7B1&text_color=c9d1d9&icon_color=9BE7B1" />
   </a>
 </p>
 
----
+## / 07 — GITHUB METRICS
 
-<h2 align="center">activity</h2>
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9BE7B1&icon_color=9BE7B1&text_color=c9d1d9&rank_icon=github" />
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9BE7B1&text_color=c9d1d9" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a1a" />
-</p>
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&bg_color=0d1117&color=9BE7B1&line=6bbf8a&point=e8f5e9&area=true&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
 
-<a href="https://www.tiktok.com/@user62876668964">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/arknmirzy">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### LET'S BUILD SOMETHING INTERESTING.
+
+<a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_WORK-9BE7B1?style=for-the-badge&logo=github&logoColor=101820&labelColor=101820" /></a>
+<a href="https://www.tiktok.com/@user62876668964"><img src="https://img.shields.io/badge/TIKTOK-9BE7B1?style=for-the-badge&logo=tiktok&logoColor=101820&labelColor=101820" /></a>
 
 <br/><br/>
 
-<code>ship fast. break nothing. vibe always.</code>
+<code>ship fast · learn constantly · be nice</code>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f0e,100:172b26&height=100&section=footer" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer&animation=fadeIn" />
