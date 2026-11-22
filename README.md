@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=180&section=header&text=Arkana%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=@arknmirzy&descSize=16&descColor=666666&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=header&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=just+a+vibe+coder;building+things+that+matter;clean+code.+dark+theme.+no+compromise.;powered+by+ai+and+curiosity;ship+fast.+break+nothing.+vibe+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=just+a+vibe+coder;building+things+that+matter;powered+by+ai+and+curiosity;ship+fast.+break+nothing.+vibe+always." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,13 +73,13 @@ const arkana = {
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://cdn.simpleicons.org/google/ffffff" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-icon.svg" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.simpleicons.org/openai/ffffff" width="40" height="40" /><br/><sub><b>Codex</b></sub>
+      <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai_dark.svg" width="40" height="40" /><br/><sub><b>Codex</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="40" height="40" /><br/><sub><b>Claude</b></sub>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="40" height="40" /><br/><sub><b>Claude</b></sub>
     </td>
   </tr>
 </table>
@@ -102,9 +102,11 @@ const arkana = {
 <h2 align="center">stats</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
-  &nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
 </p>
 
 <p align="center">
