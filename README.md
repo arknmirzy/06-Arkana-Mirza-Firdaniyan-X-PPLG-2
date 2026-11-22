@@ -105,22 +105,24 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ### ✳ AI TOOLBOX
 
-<table align="center">
-<tr>
-<td align="center" width="150">
+<div align="center">
+
 <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="48" alt="Antigravity" /></a>
-<br/><sub><b>ANTIGRAVITY</b></sub>
-</td>
-<td align="center" width="150">
-<a href="https://openai.com/codex/"><img src="https://cdn.simpleicons.org/openai/ffffff" height="48" alt="Codex" /></a>
-<br/><sub><b>CODEX</b></sub>
-</td>
-<td align="center" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" height="48" alt="Codex" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="48" alt="Claude" /></a>
-<br/><sub><b>CLAUDE</b></sub>
-</td>
-</tr>
-</table>
+
+<br/>
+
+<sub><b>ANTIGRAVITY</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>CODEX</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>CLAUDE</b></sub>
+
+</div>
+
 ---
 
 ## <a id="projects"></a>03 / SELECTED PROJECTS
