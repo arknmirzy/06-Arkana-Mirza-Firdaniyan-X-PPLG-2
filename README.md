@@ -72,8 +72,10 @@ const arkana = {
 <h2 align="center">stats</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
+</p>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
