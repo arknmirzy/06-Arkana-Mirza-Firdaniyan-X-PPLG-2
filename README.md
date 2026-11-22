@@ -107,14 +107,20 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
+<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
 <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /></a>
-<br/><b>ANTIGRAVITY</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div><span style="color:#ffffff;">ANTIGRAVITY</span></div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
 <a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /></a>
-<br/><b>CODEX</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div><span style="color:#ffffff;">CODEX</span></div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display:inline-block;width:112px;text-align:center;vertical-align:top;">
 <a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /></a>
-<br/><b>CLAUDE</b>
+<div><span style="color:#ffffff;">CLAUDE</span></div>
+</div>
 
 </div>
 
