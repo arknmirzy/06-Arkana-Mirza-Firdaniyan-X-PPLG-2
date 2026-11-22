@@ -121,23 +121,34 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ## <a id="projects"></a>03 / SELECTED PROJECTS
 
-<div align="center">
-
-<a href="https://github.com/arknmirzy/dompetku">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Dompetku project card" />
-</a><a href="https://github.com/arknmirzy/aura-music">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Aura Music project card" />
-</a>
-
-<a href="https://github.com/arknmirzy/apel-putih">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Apel Putih project card" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/arknmirzy/dompetku">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Dompetku project card" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/arknmirzy/aura-music">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Aura Music project card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/arknmirzy/apel-putih">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="Apel Putih project card" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/arknmirzy?tab=repositories">
+        <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="View all projects" />
+      </a>
+      <br/><br/>
+      <sub>Explore more projects and experiments</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
