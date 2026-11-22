@@ -88,17 +88,27 @@ const arkana = {
 
 ## / 06 — SELECTED PROJECTS
 
-<p align="center">
-  <a href="https://github.com/arknmirzy/dompetku">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/arknmirzy/aura-music">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/arknmirzy/apel-putih">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/arknmirzy/dompetku">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" alt="Dompetku repository card" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/arknmirzy/aura-music">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" alt="Aura Music repository card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/arknmirzy/apel-putih">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" alt="Apel Putih repository card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## / 07 — GITHUB METRICS
 
