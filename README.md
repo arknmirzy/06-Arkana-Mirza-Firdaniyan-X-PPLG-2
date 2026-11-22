@@ -16,10 +16,10 @@
 const arkana = {
     name   : "Arkana Mirza",
     title  : "just a vibe coder",
-    school : "SMK — PPLG (X-PPLG-2)",
+    school : "SMK-LETRIS2",
     os     : ["Arch Linux", "Windows"],
-    editor : "Visual Studio Code",
-    term   : "Kitty",
+    editor : "Visual Studio Code,oss code",
+    term   : "Kitty,aclarity",
     stack  : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
     tools  : ["Tailwind", "Bootstrap", "MySQL", "Git"],
     motto  : "ship fast. break nothing. vibe always."
