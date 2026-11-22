@@ -105,33 +105,30 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ### ✳ AI TOOLBOX
 
-<div align="center">
+<p align="center">
+  <a href="https://antigravity.google/">
+    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="52" height="52" alt="Antigravity logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="52" height="52" alt="Codex logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://claude.ai/">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="52" height="52" alt="Claude logo" />
+  </a>
+</p>
 
-<a href="https://antigravity.google/">
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="56" height="56" alt="Antigravity logo" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="56" height="56" alt="Codex logo" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="56" height="56" alt="Claude logo" />
-</a>
-
-<br/><br/>
-
-<a href="https://antigravity.google/"><b>ANTIGRAVITY</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/"><b>CODEX</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/"><b>CLAUDE</b></a>
-
-<br/>
-<sub>AI-powered IDE&nbsp;&nbsp; · &nbsp;&nbsp;Coding agent&nbsp;&nbsp; · &nbsp;&nbsp;AI assistant</sub>
-
-</div>
-
+<p align="center">
+  <a href="https://antigravity.google/"><b>ANTIGRAVITY</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/codex/"><b>CODEX</b></a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://claude.ai/"><b>CLAUDE</b></a>
+</p>
+<p align="center">
+  <sub>AI-powered IDE&nbsp;&nbsp; / &nbsp;&nbsp;Coding agent&nbsp;&nbsp; / &nbsp;&nbsp;AI assistant</sub>
+</p>
 ---
 
 ## <a id="projects"></a>03 / SELECTED PROJECTS
