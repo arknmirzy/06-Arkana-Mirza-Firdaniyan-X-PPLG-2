@@ -106,13 +106,7 @@ I like taking an idea from a rough concept to something people can actually use.
 ### ✳ AI TOOLBOX
 
 <div align="center">
-<p>
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="40" alt="Antigravity" /></a><br/><b><sub>ANTIGRAVITY</sub></b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" height="40" alt="Codex" /></a><br/><b><sub>CODEX</sub></b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="40" alt="Claude" /></a><br/><b><sub>CLAUDE</sub></b>
-</p>
+  <img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/ai-toolbox.svg" width="540" alt="Antigravity, Codex, and Claude — icons with aligned labels" />
 </div>
 
 ---
