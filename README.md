@@ -105,30 +105,31 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ### ✳ AI TOOLBOX
 
-<p align="center">
-  <a href="https://antigravity.google/">
-    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="52" height="52" alt="Antigravity logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/codex/">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="52" height="52" alt="Codex logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://claude.ai/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="52" height="52" alt="Claude logo" />
-  </a>
-</p>
-
-<p align="center">
-  <b>ANTIGRAVITY</b>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <b>CODEX</b>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <b>CLAUDE</b>
-</p>
-<p align="center">
-  <sub>AI-powered IDE&nbsp;&nbsp; / &nbsp;&nbsp;Coding agent&nbsp;&nbsp; / &nbsp;&nbsp;AI assistant</sub>
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://antigravity.google/">
+        <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="52" height="52" alt="Antigravity logo" />
+      </a>
+      <br/><b>ANTIGRAVITY</b>
+      <br/><sub>AI-powered IDE</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://openai.com/codex/">
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="52" height="52" alt="Codex logo" />
+      </a>
+      <br/><b>CODEX</b>
+      <br/><sub>Coding agent</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://claude.ai/">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="52" height="52" alt="Claude logo" />
+      </a>
+      <br/><b>CLAUDE</b>
+      <br/><sub>AI assistant</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## <a id="projects"></a>03 / SELECTED PROJECTS
