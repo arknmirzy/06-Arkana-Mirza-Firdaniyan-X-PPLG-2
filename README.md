@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Arkana%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder&descAlignY=58&descSize=20&animation=fadeIn" />
+<!-- OS Badges -->
+<img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
+
+<br/><br/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+don't+debug%2C+I+vibe+%E2%9C%A8;Code+by+intuition%2C+ship+by+instinct+%F0%9F%9A%80;If+it+works%2C+don't+touch+it+%F0%9F%98%8E;Turning+caffeine+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=just+a+vibe+coder" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=Views&color=000000&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=views&color=000000&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/arknmirzy?label=Followers&style=flat-square&color=000000&labelColor=1a1a1a" alt="Followers" />
+<img src="https://img.shields.io/github/followers/arknmirzy?label=followers&style=flat-square&color=000000&labelColor=1a1a1a" alt="Followers" />
 
 </div>
 
@@ -21,18 +25,19 @@
 ```js
 const arkana = {
     name     : "Arkana Mirza",
-    title    : "Vibe Coder ✨",
+    title    : "just a vibe coder",
     school   : "SMK — PPLG (X-PPLG-2)",
+    os       : ["Arch Linux", "Windows"],
     style    : "I don't plan the code. The code plans me.",
     stack    : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
     tools    : ["Tailwind", "Bootstrap", "MySQL", "Git"],
-    motto    : "Ship fast. Break nothing. Vibe always."
+    motto    : "ship fast. break nothing. vibe always."
 };
 ```
 
 ---
 
-## ◼ Tech Stack
+## stack
 
 <div align="center">
 
@@ -54,7 +59,7 @@ const arkana = {
 
 ---
 
-## ◼ GitHub Stats
+## stats
 
 <div align="center">
 
@@ -69,15 +74,36 @@ const arkana = {
 
 ---
 
-## ◼ Trophies
+## workspace
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arknmirzy&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=archlinux&logoColor=white" /><br/>
+<sub><b>Arch Linux</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=windows&logoColor=white" /><br/>
+<sub><b>Windows</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" /><br/>
+<sub><b>Terminal</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## ◼ Project
+## project
 
 <div align="center">
 
@@ -87,7 +113,7 @@ const arkana = {
 
 ---
 
-## ◼ Activity
+## activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a1a" />
@@ -98,15 +124,9 @@ const arkana = {
 <div align="center">
 
 ```
-      ◼ "Ship fast. Break nothing. Vibe always." ◼
+  ship fast. break nothing. vibe always.
 ```
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=400&lines=%E2%96%AC%E2%96%AC%E2%96%AC+made+with+vibes+%E2%96%AC%E2%96%AC%E2%96%AC" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer&animation=fadeIn" />
 
 </div>
