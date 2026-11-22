@@ -1,13 +1,24 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=180&section=header&text=Arkana%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=@arknmirzy&descSize=16&descColor=666666&descAlignY=55&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=just+a+vibe+coder;building+things+that+matter;clean+code.+dark+theme.+no+compromise.;powered+by+ai+and+curiosity;ship+fast.+break+nothing.+vibe+always." alt="Typing SVG" />
+</a>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white" />
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=just+a+vibe+coder" alt="Typing SVG" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=views&color=000000&style=flat-square" alt="views" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=profile+views&color=000000&style=flat-square" alt="views" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/arknmirzy?label=followers&style=flat-square&color=000000&labelColor=1a1a1a" alt="followers" />
+
 </div>
 
 ---
@@ -18,10 +29,11 @@ const arkana = {
     title  : "just a vibe coder",
     school : "SMK-LETRIS2",
     os     : ["Arch Linux", "Windows"],
-    editor : "Visual Studio Code,oss code",
-    term   : "Kitty,aclarity",
+    editor : "Visual Studio Code",
+    term   : "Kitty",
     stack  : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
     tools  : ["Tailwind", "Bootstrap", "MySQL", "Git"],
+    ai     : ["Antigravity", "Codex", "Claude"],
     motto  : "ship fast. break nothing. vibe always."
 };
 ```
@@ -49,8 +61,26 @@ const arkana = {
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" /><br/><sub>MySQL</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/><sub>Git</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/><sub>GitHub</sub></td>
-    <td align="center" width="110"></td>
-    <td align="center" width="110"></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40" /><br/><sub>Laravel</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" /><br/><sub>Figma</sub></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">ai tools</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/google/ffffff" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/openai/ffffff" width="40" height="40" /><br/><sub><b>Codex</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="40" height="40" /><br/><sub><b>Claude</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -72,22 +102,31 @@ const arkana = {
 <h2 align="center">stats</h2>
 
 <p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
+  &nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
 </p>
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
 </p>
 
 ---
 
-<h2 align="center">project</h2>
+<h2 align="center">projects</h2>
 
 <p align="center">
   <a href="https://github.com/arknmirzy/dompetku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/arknmirzy/aura-music">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=aura-music&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/arknmirzy/apel-putih">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=apel-putih&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
   </a>
 </p>
 
@@ -101,8 +140,20 @@ const arkana = {
 
 ---
 
-<p align="center">
-  <code>ship fast. break nothing. vibe always.</code>
-</p>
+<div align="center">
+
+<a href="https://www.tiktok.com/@user62876668964">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/arknmirzy">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<code>ship fast. break nothing. vibe always.</code>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer&animation=fadeIn" />
