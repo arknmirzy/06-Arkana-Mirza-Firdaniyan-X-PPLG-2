@@ -107,19 +107,11 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="48" alt="Antigravity" /></a>
+<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" height="44" alt="Antigravity" /><br/><sub><b>ANTIGRAVITY</b></sub></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" height="48" alt="Codex" /></a>
+<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" height="44" alt="Codex" /><br/><sub><b>CODEX</b></sub></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="48" alt="Claude" /></a>
-
-<br/>
-
-<sub><b>ANTIGRAVITY</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>CODEX</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>CLAUDE</b></sub>
+<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" height="44" alt="Claude" /><br/><sub><b>CLAUDE</b></sub></a>
 
 </div>
 
