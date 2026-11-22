@@ -1,118 +1,112 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=06-Arkana-Mirza-Firdaniyan&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=X-PPLG-2%20%7C%20Student%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Arkana%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Halo!+Saya+Arkana+Mirza+Firdaniyan+%F0%9F%91%8B;Siswa+SMK+Jurusan+PPLG+%F0%9F%8E%93;Web+Developer+%7C+Pelajar+Teknologi+%F0%9F%92%BB;Passionate+Coder+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+don't+debug%2C+I+vibe+%E2%9C%A8;Code+by+intuition%2C+ship+by+instinct+%F0%9F%9A%80;If+it+works%2C+don't+touch+it+%F0%9F%98%8E;Turning+caffeine+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badge -->
-<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=arknmirzy&label=Views&color=000000&style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/arknmirzy?label=Followers&style=for-the-badge&color=2575fc&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/arknmirzy?label=Followers&style=flat-square&color=000000&labelColor=1a1a1a" alt="Followers" />
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
-
-```javascript
+```js
 const arkana = {
-  name     : "06-Arkana-Mirza-Firdaniyan",
-  school   : "SMK Jurusan PPLG (X-PPLG-2)",
-  role     : "Student Developer",
-  focus    : ["Web Development", "UI/UX Design", "Programming"],
-  hobbies  : ["Coding", "Belajar hal baru", "Membangun project"],
-  motto    : "Code. Learn. Grow. 🚀"
+    name     : "Arkana Mirza",
+    title    : "Vibe Coder ✨",
+    school   : "SMK — PPLG (X-PPLG-2)",
+    style    : "I don't plan the code. The code plans me.",
+    stack    : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
+    tools    : ["Tailwind", "Bootstrap", "MySQL", "Git"],
+    motto    : "Ship fast. Break nothing. Vibe always."
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ◼ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-### ⚙️ Backend & Database
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### 🔧 Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◼ GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&text_color=ffffff" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=2575fc&currStreakLabel=ffffff" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arknmirzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
 </div>
 
 ---
 
-## 🚀 Project Unggulan
+## ◼ Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arknmirzy&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## ◼ Project
 
 <div align="center">
 
-[![Dompetku](https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc&text_color=ffffff)](https://github.com/arknmirzy/dompetku)
+[![Dompetku](https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc)](https://github.com/arknmirzy/dompetku)
 
 </div>
 
 ---
 
-## 📈 Aktivitas Kontribusi
+## ◼ Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6a11cb&line=2575fc&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a1a" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```
+      ◼ "Ship fast. Break nothing. Vibe always." ◼
+```
 
----
+<br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=400&lines=%E2%96%AC%E2%96%AC%E2%96%AC+made+with+vibes+%E2%96%AC%E2%96%AC%E2%96%AC" />
 
-<sub>⭐ Star repo favoritmu & follow untuk update project terbaru!</sub>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer&animation=fadeIn" />
 
 </div>
