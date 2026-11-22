@@ -1,23 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050505,45:151515,100:303030&text=MINJI&fontColor=FFFFFF&fontSize=64&fontAlignY=39&desc=HEY%2C%20I'M%20MIRZA%20%E2%80%A2%20VIBE%20CODER&descSize=14&descAlignY=61&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,45:141414,100:292929&text=MINJI&fontColor=FFFFFF&fontSize=66&fontAlignY=39&desc=VIBE%20CODER%20%20%E2%80%A2%20%20CREATIVE%20BUILDER%20%20%E2%80%A2%20%20LIFELONG%20LEARNER&descSize=12&descAlignY=61&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+interfaces.;Building+useful+things+with+code.;Exploring+web%2C+design%2C+Linux+%26+AI.;Learning+by+building%2C+one+commit+at+a+time." alt="Animated introduction" />
+<a href="https://github.com/arknmirzy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Mirza.;I+turn+ideas+into+digital+experiences.;Design.+Code.+Experiment.+Repeat.;Building+something+better+every+day." alt="Hey, I'm Mirza — animated introduction" /></a>
 
 <br/><br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-111111?style=for-the-badge&labelColor=111111&color=111111" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/02_STACK-222222?style=for-the-badge&labelColor=222222&color=222222" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/03_PROJECTS-333333?style=for-the-badge&labelColor=333333&color=333333" /></a>
-<a href="#activity"><img src="https://img.shields.io/badge/04_ACTIVITY-444444?style=for-the-badge&labelColor=444444&color=444444" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/01_ABOUT-171717?style=for-the-badge&labelColor=050505&color=222222" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/02_STACK-171717?style=for-the-badge&labelColor=050505&color=222222" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/03_PROJECTS-171717?style=for-the-badge&labelColor=050505&color=222222" /></a>
+<a href="#activity"><img src="https://img.shields.io/badge/04_ACTIVITY-171717?style=for-the-badge&labelColor=050505&color=222222" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/05_STATS-171717?style=for-the-badge&labelColor=050505&color=222222" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 &nbsp;
-<a href="https://github.com/arknmirzy"><img src="https://img.shields.io/badge/LET'S_CONNECT-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://github.com/arknmirzy"><img src="https://img.shields.io/badge/LET'S_CONNECT-222222?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
 <br/><br/>
 
@@ -39,9 +40,9 @@
 
 ### Hey, I'm **Mirza**.
 
-A student and developer who enjoys turning ideas into useful digital experiences.
+A student and developer who enjoys turning ideas into useful, thoughtful digital experiences.
 
-I'm exploring the intersection of **web development, interface design, Linux, and AI-assisted workflows**. I learn by building, experimenting, and refining things along the way.
+I'm exploring the intersection of **web development, interface design, Linux, and AI-assisted workflows**. I learn by building, experimenting, and refining every detail along the way.
 
 - **Currently exploring** — Web development & UI
 - **Building with** — HTML, CSS, JavaScript & PHP
@@ -69,7 +70,7 @@ const mirza = {
     "Python",
     "C++"
   ],
-  motto: "keep building"
+  motto: "be nice"
 };
 ```
 
@@ -78,25 +79,9 @@ const mirza = {
 </table>
 
 <details>
-<summary><b>✦ A little more about me</b> — expand</summary>
+<summary><b>✳ A little more about my process</b> — expand</summary>
 
-<br/>
-
-I enjoy learning through practical projects: starting with an idea, testing different approaches, and improving the result one step at a time. I'm especially interested in clean interfaces, useful tools, and technology that makes everyday work easier.
-
-</details>
-
-<details>
-<summary><b>⌘ Current focus</b> — what I'm exploring</summary>
-
-<br/>
-
-| Area | Focus |
-|:--|:--|
-| Web | Building responsive websites and practical apps |
-| UI/UX | Clean layouts, typography, and interaction |
-| Linux | Customizing my development environment |
-| AI tools | Using AI to support research and coding |
+I like taking an idea from a rough concept to something people can actually use. That means trying things, learning from mistakes, simplifying the experience, and polishing the small details. I'm interested in clean interfaces, practical tools, and technology that makes everyday work easier.
 
 </details>
 
@@ -106,45 +91,30 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <div align="center">
 
-**LANGUAGES & FRAMEWORKS**
+**LANGUAGES · FRAMEWORKS · DATABASES**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,cpp,mysql,tailwind,bootstrap&theme=dark&perline=6" />
 
 <br/><br/>
 
-**TOOLS & ENVIRONMENT**
+**TOOLS · DESIGN · ENVIRONMENT**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,arch,windows,bash&theme=dark&perline=7" />
 
 </div>
 
 <details>
-<summary><b>✧ AI TOOLBOX</b> — tap to reveal my tools</summary>
-
+<summary><b>✳ My AI toolbox</b> — expand</summary>
 <br/>
-
 <div align="center">
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="38" height="38" alt="Antigravity" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="38" height="38" alt="Codex" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="38" height="38" alt="Claude" />
-  <br/>
+  <br/><br/>
   <sub>ANTIGRAVITY&nbsp; / &nbsp;CODEX&nbsp; / &nbsp;CLAUDE</sub>
 </div>
-
-</details>
-
-<details>
-<summary><b>⌁ My workspace</b> — expand setup</summary>
-
-<br/>
-
-- **Editor:** Visual Studio Code
-- **Design:** Figma
-- **Version control:** Git & GitHub
-- **Operating systems:** CachyOS / Arch Linux and Windows
-
 </details>
 
 ---
@@ -165,22 +135,9 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <br/><br/>
 
-<a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/OPEN_ALL_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
+<a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 </div>
-
-<details>
-<summary><b>↗ Project directory</b> — quick links</summary>
-
-<br/>
-
-| Project | Open repository |
-|:--|:--|
-| Dompetku | [View project](https://github.com/arknmirzy/dompetku) |
-| Aura Music | [View project](https://github.com/arknmirzy/aura-music) |
-| Apel Putih | [View project](https://github.com/arknmirzy/apel-putih) |
-
-</details>
 
 ---
 
@@ -188,13 +145,14 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation — light mode" />
+<img width="100%" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation — dark mode" />
 
 </div>
 
 ---
 
-## 05 / GITHUB ANALYTICS
+## <a id="stats"></a>05 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -203,19 +161,17 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&bg_color=0D1117&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&bg_color=0D1117&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 <details>
-<summary><b>⌕ How to explore this profile</b> — quick guide</summary>
+<summary><b>✳ Profile navigation guide</b> — expand</summary>
 
-<br/>
-
-1. Use the navigation chips at the top to jump between sections.
-2. Open project cards to explore source code and documentation.
-3. Expand any section marked with an arrow to reveal extra details.
-4. Check the analytics panels for public GitHub activity.
+- Use the navigation chips at the top to jump between sections.
+- Open the project cards to explore each repository.
+- Expand the dropdowns for extra notes and tools.
+- Switch GitHub between light and dark themes to see the matching contribution animation.
 
 </details>
 
@@ -223,11 +179,11 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <div align="center">
 
-### LET'S BUILD SOMETHING INTERESTING.
+### IDEAS IN. CODE OUT.
 
 <a href="https://github.com/arknmirzy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
 &nbsp;
-<a href="https://www.tiktok.com/@user62876668964"><img src="https://img.shields.io/badge/FIND_ME_ON_TIKTOK-171717?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" /></a>
+<a href="https://www.tiktok.com/@user62876668964"><img src="https://img.shields.io/badge/TIKTOK-222222?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" /></a>
 
 <br/><br/>
 
@@ -235,6 +191,6 @@ I enjoy learning through practical projects: starting with an idea, testing diff
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:050505&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:050505&height=125&section=footer" />
 
 </div>
