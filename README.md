@@ -113,11 +113,8 @@ const arkana = {
 ## / 07 — CONTRIBUTION SNAKE
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img alt="Contribution snake animation (light mode)" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
+  <img alt="Contribution snake animation (dark mode)" src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
 </div>
 
 ## / 08 — GITHUB METRICS
