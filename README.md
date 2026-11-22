@@ -107,25 +107,11 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="48" height="48" alt="Antigravity" />
-  <br/><b>ANTIGRAVITY</b>
-  <br/><sub>AI-powered IDE</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="48" height="48" alt="Codex" />
-  <br/><b>CODEX</b>
-  <br/><sub>AI coding agent</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="48" height="48" alt="Claude" />
-  <br/><b>CLAUDE</b>
-  <br/><sub>AI assistant</sub>
-</td>
-</tr>
-</table>
+<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/ANTIGRAVITY-AI%20IDE-171717?style=for-the-badge&labelColor=050505&color=292929" alt="Antigravity — AI-powered IDE" /></a>
+&nbsp;
+<a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OPENAI%20CODEX-CODING%20AGENT-171717?style=for-the-badge&labelColor=050505&color=292929" alt="OpenAI Codex — coding agent" /></a>
+&nbsp;
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/CLAUDE-AI%20ASSISTANT-171717?style=for-the-badge&labelColor=050505&color=292929" alt="Claude — AI assistant" /></a>
 
 </div>
 
