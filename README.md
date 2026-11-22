@@ -107,11 +107,28 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/ANTIGRAVITY-AI%20IDE-171717?style=for-the-badge&labelColor=050505&color=292929" alt="Antigravity — AI-powered IDE" /></a>
-&nbsp;
-<a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OPENAI%20CODEX-CODING%20AGENT-171717?style=for-the-badge&labelColor=050505&color=292929" alt="OpenAI Codex — coding agent" /></a>
-&nbsp;
-<a href="https://claude.ai/"><img src="https://img.shields.io/badge/CLAUDE-AI%20ASSISTANT-171717?style=for-the-badge&labelColor=050505&color=292929" alt="Claude — AI assistant" /></a>
+<a href="https://antigravity.google/">
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="56" height="56" alt="Antigravity logo" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/codex/">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" width="56" height="56" alt="Codex logo" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://claude.ai/">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="56" height="56" alt="Claude logo" />
+</a>
+
+<br/><br/>
+
+<a href="https://antigravity.google/"><b>ANTIGRAVITY</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/codex/"><b>CODEX</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://claude.ai/"><b>CLAUDE</b></a>
+
+<br/>
+<sub>AI-powered IDE&nbsp;&nbsp; · &nbsp;&nbsp;Coding agent&nbsp;&nbsp; · &nbsp;&nbsp;AI assistant</sub>
 
 </div>
 
