@@ -72,11 +72,11 @@ const arkana = {
 <h2 align="center">stats</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arknmirzy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arknmirzy&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arknmirzy&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=cccccc&sideNums=cccccc&dates=666666" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ const arkana = {
 
 <p align="center">
   <a href="https://github.com/arknmirzy/dompetku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arknmirzy&repo=dompetku&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ const arkana = {
 <h2 align="center">activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a1a" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arknmirzy&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a1a" />
 </p>
 
 ---
