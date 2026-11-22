@@ -120,11 +120,11 @@ I like taking an idea from a rough concept to something people can actually use.
 </p>
 
 <p align="center">
-  <a href="https://antigravity.google/"><b>ANTIGRAVITY</b></a>
+  <b>ANTIGRAVITY</b>
   &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/codex/"><b>CODEX</b></a>
+  <b>CODEX</b>
   &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="https://claude.ai/"><b>CLAUDE</b></a>
+  <b>CLAUDE</b>
 </p>
 <p align="center">
   <sub>AI-powered IDE&nbsp;&nbsp; / &nbsp;&nbsp;Coding agent&nbsp;&nbsp; / &nbsp;&nbsp;AI assistant</sub>
