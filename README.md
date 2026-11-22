@@ -112,7 +112,7 @@ I like taking an idea from a rough concept to something people can actually use.
 <br/><sub><b>ANTIGRAVITY</b></sub>
 </td>
 <td align="center" width="150">
-<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" height="48" alt="Codex" /></a>
+<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" height="48" alt="Codex" /></a>
 <br/><sub><b>CODEX</b></sub>
 </td>
 <td align="center" width="150">
