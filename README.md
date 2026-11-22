@@ -73,10 +73,10 @@ const arkana = {
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-icon.svg" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
+      <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="40" height="40" /><br/><sub><b>Antigravity</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai_dark.svg" width="40" height="40" /><br/><sub><b>Codex</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" width="40" height="40" /><br/><sub><b>Codex</b></sub>
     </td>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="40" height="40" /><br/><sub><b>Claude</b></sub>
