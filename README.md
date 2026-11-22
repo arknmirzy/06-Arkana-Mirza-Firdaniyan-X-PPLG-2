@@ -107,11 +107,11 @@ I like taking an idea from a rough concept to something people can actually use.
 
 <div align="center">
 
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /><br/><sub><b>ANTIGRAVITY</b></sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /><br/><sub><b>CODEX</b></sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /><br/><sub><b>CLAUDE</b></sub></a>
+<a href="https://antigravity.google/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" style="display:block;margin:0 auto 8px;" /><b>ANTIGRAVITY</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/codex/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" style="display:block;margin:0 auto 8px;" /><b>CODEX</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://claude.ai/" style="display:inline-block;width:112px;vertical-align:top;text-align:center;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" style="display:block;margin:0 auto 8px;" /><b>CLAUDE</b></a>
 
 </div>
 
