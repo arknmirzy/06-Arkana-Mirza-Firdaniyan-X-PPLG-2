@@ -34,7 +34,7 @@ const arkana = {
     stack  : ["HTML", "CSS", "JS", "React", "Node.js", "PHP", "Python", "C++"],
     tools  : ["Tailwind", "Bootstrap", "MySQL", "Git"],
     ai     : ["Antigravity", "Codex", "Claude"],
-    motto  : "ship fast. break nothing. vibe always."
+    motto  : "be nice"
 };
 ```
 
