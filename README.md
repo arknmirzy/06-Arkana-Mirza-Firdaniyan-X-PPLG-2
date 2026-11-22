@@ -105,22 +105,17 @@ I like taking an idea from a rough concept to something people can actually use.
 
 ### ✳ AI TOOLBOX
 
-<table align="center" border="0" cellpadding="12" cellspacing="0">
-<tr>
-<td align="center" valign="middle">
-<a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /></a><br/>
-<b>ANTIGRAVITY</b>
-</td>
-<td align="center" valign="middle">
-<a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /></a><br/>
-<b>CODEX</b>
-</td>
-<td align="center" valign="middle">
-<a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /></a><br/>
-<b>CLAUDE</b>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://antigravity.google/"><img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="44" height="44" alt="Antigravity" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/arknmirzy/arknmirzy/main/assets/codex-white.svg" width="44" height="44" alt="Codex" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://claude.ai/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/claude-icon.svg" width="44" height="44" alt="Claude" /></a>
+  <br/>
+  <b>ANTIGRAVITY</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CODEX</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CLAUDE</b>
+</p>
 
 ---
 
